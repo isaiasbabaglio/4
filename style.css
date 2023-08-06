@@ -1,0 +1,24 @@
+
+.caja-1{
+    width: 200px;
+    height: 200px;
+  color: blue;
+   
+}
+
+.caja-2{
+    width: 200px;
+    height: 200px;
+  color: brown;  
+  margin-top: 5px;
+  margin-bottom: 5px;
+  position:sticky;
+}
+
+.caja-3{
+    width: 200px;
+ color: #ff00bf;   
+ margin-top: 5px;
+ margin-bottom: 5px;
+ position:sticky;
+}
